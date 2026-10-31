@@ -1,0 +1,11 @@
+# Dossiers lourds ou inutiles
+Helmet-Detection-4/
+dataset/
+runs/
+videos/
+__pycache__/
+*.pyc
+
+# Fichiers de configuration locaux
+.env
+.vscode/

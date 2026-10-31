@@ -1,0 +1,12 @@
+path: ./dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: motorcycle
+  1: rider_with_helmet
+  2: rider_without_helmet
+  3: worker_with_helmet
+  4: worker_without_helmet
