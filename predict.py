@@ -14,7 +14,7 @@ MODEL_PATH      = "runs/helmet_v1/weights/best.pt"
 # - Vidéo : "videos/test.mp4"
 SOURCE          =r"C:\Users\batmi\OneDrive\Documents\FasoSafe_AI\image test\Sécurité_routière___l’ONASER_sensibilise_sur_le_port_du_casque_à_Banfora(240p).mp4"
 CONF            = 0.45
-ARDUINO_PORT    = "COM8"  # ⚠️ Vérifiez que c'est bien COM3
+ARDUINO_PORT    = "COM8"  # ⚠️ Vérifiez que c'est bien le port de votre Arduino 
 ARDUINO_BAUD    = 9600
 CONFIRM_FRAMES  = 3                   
 NAMES           = {0: "Helmet", 1: "NoHelmet"}
